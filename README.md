@@ -1,3 +1,3 @@
 # java-primeiros-passos
-Repositorio para armazenar todo o conteudo do curso de Java Basico da Dio
-Alterando o conteudo de um arquivo de forma local
+Repositorio para armazenar todo o conteudo do curso de Java Basico da Dio.
+Estou atualmente reforçando os aprendizados de Git/ Github e Java do zero.
